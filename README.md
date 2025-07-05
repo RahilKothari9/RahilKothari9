@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahil Kothari</h1>
-<h3 align="center">SDE Intern at Google</h3>
+I am a software engineer based out of Mumbai and have experience interning at Google and HackeroX. Interested in competitive programming and problem solving. Passionate about the GenAI space.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahilkothari9&label=Profile%20views&color=0e75b6&style=flat" alt="rahilkothari9" /> </p>
 
