@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahil Kothari</h1>
-<h3 align="center">A growth driven problem solver from Mumbai, India. I am currently developing MERN Stack projects and working on Competitive Programming</h3>
+<h3 align="center">SDE Intern at Google</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahilkothari9&label=Profile%20views&color=0e75b6&style=flat" alt="rahilkothari9" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/kotharirahil9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kotharirahil9" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kotharirahil9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kotharirahil9" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kotharirahil9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kotharirahil9" height="30" width="40" /></a>
-</p>
 
 ## 📈 Coding Profiles
 
