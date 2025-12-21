@@ -1,22 +1,71 @@
-<h1 align="center">Hi 👋, I'm Rahil Kothari</h1>
-<h3>I am a software engineer based out of Mumbai and have experience interning at Google and HackeroX. Interested in competitive programming and problem solving. Passionate about the GenAI space.</h3>
+<h1 align="center">Hey, I'm Rahil 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahilkothari9&label=Profile%20views&color=0e75b6&style=flat" alt="rahilkothari9" /> </p>
+<h3 align="center">
+Incoming Software Development Engineer at Google • GenAI builder • Competitive programmer by muscle memory
+</h3>
 
+<p align="center">
+Based in Mumbai • Previously interned at Google and MoviantAI (HackeroX)
+</p>
 
-## 📈 Coding Profiles
+<p align="center">
+I like building systems that <b>reason, talk, and act</b>.  
+From DevInfra debugging tools to autonomous voice agents, I enjoy turning messy real-world workflows into clean, reliable software.
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahilkothari9&label=Profile%20views&color=0e75b6&style=flat" alt="rahilkothari9" />
+</p>
+
+---
+
+## 🚀 Things I’m excited about
+- Generative AI and agentic systems  
+- Voice-first interfaces and real-time workflows  
+- Developer infrastructure and debugging tooling  
+- Competitive programming and algorithmic problem solving  
+
+---
+
+## 🏆 A few highlights
+- Incoming SDE at Google  
+- Winner, ElevenLabs Worldwide Hackathon (Overall + n8n + Blackbox tracks)  
+- Winner, JPMC Code For Good Hackathon 2025  
+- Built production DevInfra tooling used across YouTube systems  
+- ICPC Asia West Continentalist  
+- Codeforces Expert and LeetCode Guardian  
+
+---
+
+## 🛠️ Stuff I enjoy building with
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📈 Coding profiles (old habits stick around)
 <span>
-<a href="https://codeforces.com/profile/kotharirahil9">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=kotharirahil9&theme=github_dark&force_username=true&border_color=404040" alt="kotharirahil9 Codeforces Stats"/>
-</a>
-<a href="https://leetcode.com/kotharirahil9">
-<img height="316" src="https://leetcard.jacoblin.cool/kotharirahil9?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/kotharirahil9/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="kotharirahil9 Leetcode Stats"/>
-</a>
+  <a href="https://codeforces.com/profile/kotharirahil9">
+    <img height="280" src="https://codeforces-readme-stats.vercel.app/api/card?username=kotharirahil9&theme=github_dark&force_username=true&border_color=404040"/>
+  </a>
+  <a href="https://leetcode.com/kotharirahil9">
+    <img height="280" src="https://leetcard.jacoblin.cool/kotharirahil9?theme=dark&font=Ubuntu&ext=contest"/>
+  </a>
 </span>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahilkothari9&show_icons=true&locale=en" alt="rahilkothari9" /></p>-->
-<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=21rquud6gxqynpsn7dbiws6eq"/> -->
+<p align="center">
+Currently exploring how far we can push voice agents, orchestration, and GenAI systems.  
+If you are building something interesting or just want to talk systems, feel free to reach out.
+</p>
