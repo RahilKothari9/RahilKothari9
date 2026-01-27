@@ -28,11 +28,11 @@ From DevInfra debugging tools to autonomous voice agents, I enjoy turning messy 
 ---
 
 ## 🏆 A few highlights
-- Incoming SDE at Google  
+- Incoming SDE at Google
+- ICPC Asia West Continentalist
 - Winner, ElevenLabs Worldwide Hackathon (Overall + n8n + Blackbox tracks)  
 - Winner, JPMC Code For Good Hackathon 2025  
-- Built production DevInfra tooling used across YouTube systems  
-- ICPC Asia West Continentalist  
+- Built production DevInfra tooling used across YouTube systems    
 - Codeforces Expert and LeetCode Guardian  
 
 ---
