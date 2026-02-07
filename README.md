@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Rahil 👋</h1>
 
 <h3 align="center">
-Incoming Software Development Engineer at Google • GenAI builder • Competitive programmer by muscle memory
+Incoming Software Development Engineer at Google • A builder who likes tinkering with GenAI
 </h3>
 
 <p align="center">
