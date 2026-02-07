@@ -8,10 +8,6 @@ Incoming Software Development Engineer at Google • A builder who likes tinkeri
 Based in Mumbai • Previously interned at Google and MoviantAI (HackeroX)
 </p>
 
-<p align="center">
-I like building systems that <b>reason, talk, and act</b>.  
-From DevInfra debugging tools to autonomous voice agents, I enjoy turning messy real-world workflows into clean, reliable software.
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahilkothari9&label=Profile%20views&color=0e75b6&style=flat" alt="rahilkothari9" />
@@ -19,7 +15,7 @@ From DevInfra debugging tools to autonomous voice agents, I enjoy turning messy 
 
 ---
 
-## 🚀 Things I’m excited about
+## Things I’m excited about
 - Generative AI and agentic systems  
 - Voice-first interfaces and real-time workflows  
 - Developer infrastructure and debugging tooling  
@@ -27,7 +23,7 @@ From DevInfra debugging tools to autonomous voice agents, I enjoy turning messy 
 
 ---
 
-## 🏆 A few highlights
+##  A few highlights
 - Incoming SDE at Google
 - ICPC Asia West Continentalist
 - Winner, ElevenLabs Worldwide Hackathon (Overall + n8n + Blackbox tracks)  
@@ -37,7 +33,7 @@ From DevInfra debugging tools to autonomous voice agents, I enjoy turning messy 
 
 ---
 
-## 📈 Coding profiles (old habits stick around)
+##  Competitive Programming Profiles
 <span>
   <a href="https://codeforces.com/profile/kotharirahil9">
     <img height="280" src="https://codeforces-readme-stats.vercel.app/api/card?username=kotharirahil9&theme=github_dark&force_username=true&border_color=404040"/>
