@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Rahil 👋</h1>
 
 <h3 align="center">
-Incoming Software Development Engineer at Google • A builder who likes tinkering with GenAI
+SDE @ Google • I like tinkering with GenAI and keeping up with the frontier.
 </h3>
 
 <p align="center">
@@ -30,18 +30,6 @@ Based in Mumbai • Previously interned at Google and MoviantAI (HackeroX)
 - Winner, JPMC Code For Good Hackathon 2025  
 - Built production DevInfra tooling used across YouTube systems    
 - Codeforces Expert and LeetCode Guardian  
-
----
-
-##  Competitive Programming Profiles
-<span>
-  <a href="https://codeforces.com/profile/kotharirahil9">
-    <img height="280" src="https://codeforces-readme-stats.vercel.app/api/card?username=kotharirahil9&theme=github_dark&force_username=true&border_color=404040"/>
-  </a>
-  <a href="https://leetcode.com/kotharirahil9">
-    <img height="280" src="https://leetcard.jacoblin.cool/kotharirahil9?theme=dark&font=Ubuntu&ext=contest"/>
-  </a>
-</span>
 
 ---
 
